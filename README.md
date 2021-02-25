@@ -1,0 +1,2 @@
+# SC INI DI CIPTAKAN OLEH RIZKY RASAT
+# install
