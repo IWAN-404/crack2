@@ -15,8 +15,8 @@
 
 • pkg install bs4
 
-• git clone https://github.com/kinarworo/crack-2
+• git clone https://github.com/IWAN-404/biji
 
-• cd crack-2
+• cd crack2
 
-• python2 run.py
+• python2 biji.pyc
