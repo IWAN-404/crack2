@@ -15,7 +15,7 @@
 
 • pkg install bs4
 
-• git clone https://github.com/IWAN-404/biji
+• git clone https://github.com/IWAN-404/crack2
 
 • cd crack2
 
